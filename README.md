@@ -47,6 +47,9 @@ For the ease of installation, you should use [anaconda](https://conda.io/) to se
 A suitable conda environment named `enhancing` can be created and activated with:
 ```
 conda env create -f environment.yaml
+conda install pytorch-lightning=1.5.10 -c conda-forge 
+conda install -c conda-forge cudatoolkit-dev
+pip install -r requirements.txt
 conda activate enhancing
 ```
 
