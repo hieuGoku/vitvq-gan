@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../enhancing-transformers/.idea/enhancing-transformers.iml" filepath="$PROJECT_DIR$/../enhancing-transformers/.idea/enhancing-transformers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/vitvq-gan.iml" filepath="$PROJECT_DIR$/.idea/vitvq-gan.iml" />
     </modules>
   </component>

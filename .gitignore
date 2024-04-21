@@ -2,3 +2,4 @@ figures/
 experiments/
 *__pycache__/
 data
+.idea/
